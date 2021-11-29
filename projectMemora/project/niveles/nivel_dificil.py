@@ -2,7 +2,7 @@ from project.utilidad.memora.memora import Memorama
 from project.utilidad.memora.memora import Memorama
 
 '''
-Clase class se inicializa el segundo tercer del juego con la cantidad de cartas y tamaño
+Clase donde se inicializa el segundo tercer del juego con la cantidad de cartas y tamaño
 '''
 class NivelDificil(Memorama):
 

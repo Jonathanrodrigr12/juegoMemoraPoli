@@ -135,4 +135,4 @@ class Memorama(Ventana):
             if nueva_venta:
                 venta(self.ruta_fondo, self.ruta_imagenes, self.ruta_imagenes_letras).iniciar_nivel()
             else:
-                messagebox.showinfo("Ganaste", "Felcidades, gnaaste")
+                messagebox.showinfo("Ganaste", "Felcidades, ganaste")

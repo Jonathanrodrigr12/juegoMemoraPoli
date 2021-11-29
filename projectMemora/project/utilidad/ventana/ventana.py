@@ -12,7 +12,7 @@ class Ventana:
         self.ventana = Tk()
         self.ventana.title("Memorama")
         self.ventana.geometry(tamaño) 
-        self.ventana.configure(background='sky blue')
+        #self.ventana.configure(background='sky blue')
     
     '''
     Metodo que lanza la ejecución de la venta y nos deja interactuar con ella.

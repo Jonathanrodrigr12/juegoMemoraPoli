@@ -1,3 +1,3 @@
-from project.iniciarJuego.modulosJuego import ModulosJuego
+from project.iniciarJuego.pantallaInicial.pantallaInicial import PantallaInicial
 
-ModulosJuego().crear_venta()
+PantallaInicial().crear_venta()

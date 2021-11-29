@@ -2,7 +2,7 @@ from project.utilidad.memora.memora import Memorama
 from project.niveles.nivel_intermedio import NivelIntermedio
 
 '''
-Clase class se inicializa el primer nivel del juego con la cantidad de cartas y tamaño
+Clase donde el primer nivel del juego con la cantidad de cartas y tamaño
 '''
 class NivelInical(Memorama):
 
