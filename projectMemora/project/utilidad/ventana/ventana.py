@@ -5,6 +5,7 @@ Clase ventana donde se crea la ventana de ejecución para si posteriormente
 agregarle las cartas para que comience el juego
 '''
 class Ventana:
+    
     '''
     Constructor donde se incializa las clases y propiedades para la creación del juego
     '''
